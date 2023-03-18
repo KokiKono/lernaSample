@@ -1,5 +1,5 @@
 {
-  "name": "remixapp",
+  "name": "@KokiKono/remixapp",
   "private": true,
   "sideEffects": false,
   "scripts": {
